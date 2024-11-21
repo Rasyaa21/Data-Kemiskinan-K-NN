@@ -11,5 +11,6 @@ maka jika kita akan menggunakan Euclidean Distance kita harus menggunakan p=2 ya
 Disini kita mendapatkan skor Accuracy yaitu 96 dengan cross check validation di 94 yang artinya itu pertanda bagus bagi model tidak adanya overfitting dalam model kita. 
 dibawah ini adalah hasil visualisasi dari model yang sudah kita buat
 
-<img width="619" alt="image" src="https://github.com/user-attachments/assets/9287dfbf-04a2-479a-ae20-0c6372752668">
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/7e07284a-652b-468f-b967-ec01e953d2aa">
+
 
